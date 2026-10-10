@@ -424,7 +424,7 @@ export const MaterialsSection = () => {
     {
       title: "18K ROYAL GOLD",
       desc: "Ethically refined and recycled solid gold alloys with unmatched warmth and hypoallergenic comfort.",
-      img: "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=600&auto=format&fit=crop"
+      img: "https://images.unsplash.com/photo-1717409014701-8e630ff057f3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
     },
     {
       title: "LAB-GROWN BRILLIANTS",
@@ -434,7 +434,7 @@ export const MaterialsSection = () => {
     {
       title: "SOLID 950 PLATINUM",
       desc: "High-density noble metal engineered to hold solitaires in timeless security without fading or oxidizing.",
-      img: "https://images.unsplash.com/photo-1611591475155-42e887640c49?q=80&w=600&auto=format&fit=crop"
+      img: "https://plus.unsplash.com/premium_photo-1680181362119-5c9bf196805f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
     },
     {
       title: "NATURAL GEMSTONES",
@@ -508,7 +508,7 @@ export const InstagramMasonry = () => {
   const photos = [
     "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=600&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?q=80&w=600&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1611591475155-42e887640c49?q=80&w=600&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1631965004544-1762fc696476?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?q=80&w=600&auto=format&fit=crop"
   ];
 

@@ -19,7 +19,7 @@ export const PRODUCTS = [
     story: "Inspired by the organic contours of Parisian modern architecture. Cast through lost-wax technique and burnished by hand over 18 hours in our atelier.",
     images: [
       "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?q=80&w=900&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1615280549401-3182774c59be?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
       "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=900&auto=format&fit=crop"
     ],
     details: [
@@ -168,9 +168,9 @@ export const PRODUCTS = [
     shortDescription: "Sculpted interlocking links engineered with micro-bearings for fluid, silky drape against the wrist.",
     story: "A jewel that truly moves with you. The LUMI links behave like woven metallic liquid silk, adapting to every gesture with quiet grace.",
     images: [
-      "https://images.unsplash.com/photo-1611591475155-42e887640c49?q=80&w=900&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?q=80&w=900&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?q=80&w=900&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1639065643006-e217c4fee12e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGJyYWNlbGV0cyUyMHByb2R1Y3RzfGVufDB8fDB8fHww",
+      "https://media.istockphoto.com/id/1281876525/photo/fine-luxury-white-gold-bracelet-with-zircon-on-the-black-and-red-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=cxcNvv-WY-mWfOU1vP0chgO-Oy9-m8JtSsKsuWq9AHM=",
+      "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D"
     ],
     details: [
       "Integrated double-safety concealed box clasp",
@@ -318,9 +318,9 @@ export const PRODUCTS = [
     shortDescription: "An open organic torque cuff that coils effortlessly around the wrist like a stroke of golden calligraphy.",
     story: "Forged on wooden stakes to create subtle variations in thickness. No two cuffs are precisely identical, ensuring every piece remains truly personal.",
     images: [
-      "https://images.unsplash.com/photo-1611591475155-42e887640c49?q=80&w=900&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?q=80&w=900&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?q=80&w=900&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1708221235482-a6e2a807198f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "https://images.unsplash.com/photo-1708221235465-0c63b2e4f813?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "https://images.unsplash.com/photo-1708221235470-15d8851b33a5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
     ],
     details: [
       "Malleable comfort fit that flexes gently onto wrist",

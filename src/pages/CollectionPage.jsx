@@ -5,10 +5,10 @@ import { PRODUCTS } from '../data/products';
 
 const CATEGORY_META = {
   rings: {
-    title: "Solitaire & Sculptural Rings",
-    subtitle: "THE RING SUITE",
-    desc: "Forged in solid 18K gold and platinum 950. Designed to capture light from every angle with zero compromise in everyday ergonomics.",
-    heroImg: "https://images.unsplash.com/photo-1605100804763-247f67b3557e?q=80&w=1600&auto=format&fit=crop"
+    title: "Timeless Fine Jewellery Collection",
+    subtitle: "THE MASTER ATELIER",
+    desc: "Handcrafted in solid precious metals and brilliant gemstones. Designed to illuminate your presence with effortless grace and everyday comfort.",
+    heroImg: "https://media.istockphoto.com/id/2269757076/photo/indian-bridal-jewelry-display-without-face-traditional-wedding-accessories.jpg?s=612x612&w=0&k=20&c=5G0AGu7Smbi_RI4L9KkmNb5-DsR6Y97bG5A2dNKPmHE="
   },
   necklaces: {
     title: "Royal Colliers & Pendants",
